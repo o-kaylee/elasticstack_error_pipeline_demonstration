@@ -7,3 +7,7 @@ TBD
 ### Run
 
 > docker-compose up
+
+### Demonstrate
+
+visit `http://localhost:5601` which is Kibana base url to check if filebeat is beating.
